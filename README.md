@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0115-distinct-subsequences) |
 | [0678-valid-parenthesis-string](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1096-brace-expansion-ii) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AbhirajSingh123/Leetcode_problems_solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
